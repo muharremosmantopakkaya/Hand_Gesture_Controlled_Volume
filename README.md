@@ -42,8 +42,9 @@ Uygulama, bilgisayar kamerasından alınan görüntüyü işleyerek el izleme ve
 
 Bu projenin detaylı kullanımını öğrenmek için YouTube'da yayınladığım videoyu izleyebilirsiniz. Videoyu izleyerek adım adım el hareketleriyle bilgisayarın ses seviyesini kontrol etmeyi öğrenebilirsiniz.
 
-[![YouTube Video](https://img.youtube.com/vi/sIJQkmlP8U4/0.jpg)](https://www.youtube.com/watch?v=sIJQkmlP8U4)
+[![YouTube Video](https://img.youtube.com/vi/JdFr8EX4IY4/0.jpg)](https://www.youtube.com/watch?v=JdFr8EX4IY4)
 
-[Videoyu İzlemek İçin Tıklayın](https://www.youtube.com/watch?v=sIJQkmlP8U4)
+[Videoyu İzlemek İçin Tıklayın](https://www.youtube.com/watch?v=JdFr8EX4IY4)
+
 
 
