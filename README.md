@@ -20,7 +20,7 @@ Bu proje, el hareketlerini kullanarak bilgisayarın ses seviyesini kontrol etmek
 
 1. Öncelikle gerekli kütüphaneleri yükleyin:
 
-    ```
+    ```bash
     pip install opencv-python mediapipe pycaw
     ```
 
@@ -41,5 +41,3 @@ Uygulama, bilgisayar kamerasından alınan görüntüyü işleyerek el izleme ve
 ## Ekran Görüntüsü
 
 ![Ekran Görüntüsü](videos/video.mp4)
-
-Bu projenin detaylı kullanımı ve açıklamaları için Hand_Gesture_Controlled_Volume.md dosyasına bakabilirsiniz.
