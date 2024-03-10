@@ -37,7 +37,13 @@ Uygulama, bilgisayar kamerasından alınan görüntüyü işleyerek el izleme ve
 - Programın düzgün çalışması için elin kamereaya net bir şekilde görünmesi gerekmektedir.
 - Parmak sayısına göre ses seviyesinin kontrol edilmesi sağlanmalıdır.
 - Ses seviyesi ayarlanırken parmak konumlarına dikkat edilmelidir.
+- 
+## Youtube Videosu
 
-## Ekran Görüntüsü
+Bu projenin detaylı kullanımını öğrenmek için YouTube'da yayınladığım videoyu izleyebilirsiniz. Videoyu izleyerek adım adım el hareketleriyle bilgisayarın ses seviyesini kontrol etmeyi öğrenebilirsiniz.
 
-![Ekran Görüntüsü](videos/video.mp4)
+[![YouTube Video](https://img.youtube.com/vi/sIJQkmlP8U4/0.jpg)](https://www.youtube.com/watch?v=sIJQkmlP8U4)
+
+[Videoyu İzlemek İçin Tıklayın](https://www.youtube.com/watch?v=sIJQkmlP8U4)
+
+
